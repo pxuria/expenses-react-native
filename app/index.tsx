@@ -55,7 +55,7 @@ export default function RootLayout() {
 
   return (
     <>
-      <StatusBar barStyle='default' />
+      <StatusBar barStyle='light-content' />
       <ExpensesContextProvider>
 
         <Stack.Navigator
